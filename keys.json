@@ -1,1 +1,12 @@
-{"keys": {"TTAK-KEY-001": "2026-12-31", "TTAK-DEMO-KEY": "2026-08-01"}}
+{
+  "users": {
+    "TTAK-USER-01": {
+      "hwid": "TTAK-C10A140994B6809C",
+      "expiry": "2026-08-21"
+    },
+    "DEMO-USER": {
+      "hwid": "ANY",
+      "expiry": "2026-12-31"
+    }
+  }
+}
