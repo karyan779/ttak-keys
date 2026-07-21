@@ -1,8 +1,3 @@
 {
-  "users": {
-    "TTAK-USER-01": {
-      "hwid": "TTAK-A6FC47D7A81DC0AF",
-      "expiry": "2026-08-20"
-    }
-  }
+  "users": {}
 }
