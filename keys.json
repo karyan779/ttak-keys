@@ -1,4 +1,8 @@
 {
   "status": "ON",
-  "users": {}
+  "users": {
+    "TTAK-7579DE355393D752": {
+      "expiry": "2026-07-25"
+    }
+  }
 }
